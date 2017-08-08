@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 	"Language" "ukrainian"
 	"Tokens"
@@ -342,7 +342,7 @@
 		"virgil.Virgil_261"	"<clr:255,192,0>Вергілій: Wait, Mel, before shutting this thing down completely, remember that there was a third target it was trying to take out? Well, we’re not three, unless you can tell me otherwise. Try to see what you can do. Type 'ping_target_list.'"
 		"virgil.Virgil_262"	"<clr:255,192,0>Вергілій: Am…Am I reading that right? Was this thing tr-trying to destroy HER? It was targeting GLaDOS?! Mel…what have we done? GLaDOS killed every scientist in this facility before being destroyed by a tenacious test subject. This thing, AEGIS…it was trying to finish the job and flood the facility to destroy her. Mel…we might just have given GLaDOS a chance to get back in power. I can’t believe it! How could we have done that?! Why didn’t I see it sooner?! [sigh]"
 		"virgil.Virgil_263"	"<clr:255,192,0>Вергілій: Well, if you want to get out of here, now is your best chance, you don’t want to be around when SHE comes back online. You should shut down AEGIS now."
-		"virgil.Virgil_264"	"<clr:255,192,0>Вергілій: Needs a passcode? It should be around here somewhere. Take a look around."
+		"virgil.Virgil_264"	"<clr:255,192,0>Вергілій: Потрібен пароль? Він має бути десь тут. Спробуй глянути навколо."
 		"virgil.Virgil_265"	"<clr:255,192,0>Вергілій: Ah! There, try that."
 		"virgil.Virgil_266"	"<clr:255,192,0>Вергілій: 20-56. I’ve seen that number around a lot in this place. Strange…"
 		"virgil.Virgil_267"	"<clr:255,192,0>Вергілій: It’s done. AEGIS is in final shutdown sequences. Mel, come back to the lift. I can get you out of the facility."
